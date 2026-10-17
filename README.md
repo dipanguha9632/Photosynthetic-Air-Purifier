@@ -90,3 +90,9 @@ Use properly rated, isolated power supplies and safe enclosures for all AC conne
 
 **Conclusion**
 This project explores the integration of biological photosynthesis, embedded systems, and continuous air circulation in an algae-based air purifier prototype. It provides real-time monitoring of gas-related sensor readings and a platform for further experimentation in sustainable air-treatment technologies.
+
+
+<img width="1280" height="1028" alt="1789892726470" src="https://github.com/user-attachments/assets/3fed8f2e-9f2a-4e46-b37b-ade2ffd34aba" />
+<img width="480" height="720" alt="1789892723119" src="https://github.com/user-attachments/assets/c3b15ec5-740d-4f06-a56b-4a77bc90d204" />
+
+
